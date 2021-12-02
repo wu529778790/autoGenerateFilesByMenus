@@ -1,0 +1,2 @@
+# autoGenerateFilesByMenus
+根据菜单自动生成页面文件以及相应的API文件
