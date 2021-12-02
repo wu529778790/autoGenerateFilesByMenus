@@ -30,6 +30,8 @@
 </template>
 
 <script>
+import { getPage } from '@/apiCONFIGURL'
+
 export default {
   name: "App",
   data() {
